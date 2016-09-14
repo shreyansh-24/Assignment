@@ -1,0 +1,63 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#header{
+
+
+}
+.container-fluid{
+    padding: 20px 30px;
+}
+
+#header .col-md-8 ul{
+    list-style: none;
+    color: black;
+    font-size: 20px;
+}
+#header .col-md-8 ul li{
+    float: right;
+    padding: 0 20px;
+
+}
+#header .col-md-8 ul li a{
+    text-decoration: none;
+    color: black;
+}
+#header .col-md-8 ul li a.active{
+    color: #94C63F;
+}
+/*---------form css-----------*/
+form{
+
+}
+.form-inline .input[type=text] {
+    border: 2px solid #34495e;
+}
+.form-inline{
+    float: right;
+    padding: 15px 0;
+}
+button .btn .btn-default
+{
+    background-color: #34495e;
+    color: white;
+}
+#navig .container-fluid {
+    background-color: #94C63F;
+    padding: 3px 30px;
+    color: white;
+    border: none;
+    border-radius: 3px 25px 3px 25px;
+    border-bottom: 3px solid #34495e;
+}
+.navbar-inverse .navbar-brand{
+    color: white !important;
+}
+.navbar-inverse .navbar-nav li a{
+    color: white;
+}
+.navbar-inverse {
+    padding: 0 20px;
+    background-color: white;
+    border: none;
+}

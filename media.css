@@ -1,0 +1,22 @@
+@media screen and (min-width:375px) and (max-width:667px) {
+
+   #header .col-md-4 img{
+        margin-left: 50px;
+
+    }
+
+    #header .col-md-8 ul li a{
+        font-size: 10px;
+    }
+    #header .col-md-8 ul li a{
+        padding: 0;
+    }
+    #header .col-md-8 ul li{
+        padding: 0 9px;
+    }
+
+
+
+
+
+}
